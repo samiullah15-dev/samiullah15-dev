@@ -1,16 +1,43 @@
-## Hi there 👋
+# Samiullah
 
-<!--
-**samiullah15-dev/samiullah15-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-Stack Software Engineer building scalable SaaS, ERP,
+e-commerce, web and mobile applications.
 
-Here are some ideas to get you started:
+## Engineering Focus
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Full-Stack Web Applications
+- SaaS & ERP Systems
+- Mobile Applications
+- Backend APIs & Integrations
+- E-commerce Platforms
+- Cloud & DevOps
+
+## Core Stack
+
+Next.js • React • TypeScript • Node.js • NestJS • Flutter
+PostgreSQL • MongoDB • Supabase • Firebase • Docker
+
+## Selected Engineering Work
+
+### CoreOps ERP
+Industrial ERP system covering inventory, stock movement,
+sales, supply, invoicing, ledgers and operational workflows.
+
+Portfolio case study: https://www.samiullah.website/projects/CoreOps-ERP.
+
+### BreatheMate
+Cross-platform environmental monitoring application using
+Flutter, Node.js, MongoDB and Python-based data workflows.
+
+Portfolio case study: https://www.samiullah.website/projects/breathemate.
+
+### MediLink
+Healthcare mobile platform covering patient discovery,
+appointments, consultations and connected healthcare workflows.
+
+Portfolio case study: https://www.samiullah.website/projects/medilink.
+
+## Professional Profiles
+
+Portfolio: https://www.samiullah.website/
+LinkedIn: https://www.linkedin.com/in/samiullah15/

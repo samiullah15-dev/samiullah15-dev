@@ -4,5 +4,6 @@ e-commerce, web and mobile applications.
 [Portfolio](https://www.samiullah.website/) •
 [LinkedIn](https://www.linkedin.com/in/samiullah15/)
 ## Core Stack
-Next.js • React • TypeScript • Node.js • NestJS • Flutter  
-PostgreSQL • MongoDB • Supabase • Firebase • Docker
+Next.js • React • Node.js • NestJS • Flutter  
+PostgreSQL • MongoDB • Supabase • Firebase
+Networking • CyberSecurity • DevOps
